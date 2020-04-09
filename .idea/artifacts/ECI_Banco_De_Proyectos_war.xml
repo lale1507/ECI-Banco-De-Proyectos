@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ECI-Banco-De-Proyectos:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ECI-Banco-De-Proyectos</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ECI-Banco-De-Proyectos.war">
+      <element id="artifact" artifact-name="ECI-Banco-De-Proyectos:war exploded" />
+    </root>
+  </artifact>
+</component>
